@@ -1,2 +1,2 @@
-prin("we")
+print("we")
 print("good")
